@@ -2,8 +2,8 @@
 
 This is a Texas Holdem minimalistc game built on ReactJs.
 To run this application you can follow step1 or step 2.
-Step 1 will consider you have installed "docker" and "docker-compose" on your machine, if not you can follow the links [Docker]https://docs.docker.com/install/linux/docker-ce/ubuntu/#install-docker-ce and [Docker Compose]https://docs.docker.com/compose/install/#install-compose to install these dependencies.
-Step 2 will consider you have nodejs installed on your machine, if not follow this link to do so [NodeJS]https://nodejs.org/en/download/package-manager/
+Step 1 will consider you have installed "docker" and "docker-compose" on your machine, if not you can follow the links [Docker](https://docs.docker.com/install/linux/docker-ce/ubuntu/#install-docker-ce) and [Docker Compose](https://docs.docker.com/compose/install/#install-compose) to install these dependencies.
+Step 2 will consider you have nodejs installed on your machine, if not follow this link to do so [NodeJS](https://nodejs.org/en/download/package-manager/)
 
 ## Step 1
 
