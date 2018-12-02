@@ -1,0 +1,17 @@
+@import "~bootstrap/scss/bootstrap";
+@import "./Navbar.scss";
+@import "./Home.scss";
+@import "./Game.scss";
+
+.app-body {
+
+  background: #f2f3f5;
+  min-height: 100vh;
+
+  .content-section {
+
+    padding: 10px;
+
+  }
+
+}

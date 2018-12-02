@@ -1,0 +1,19 @@
+.start-game-div,
+.restart-game-btn-div {
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: column;
+
+}
+
+.card {
+
+  margin-bottom: 10px;
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
