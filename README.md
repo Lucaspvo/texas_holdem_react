@@ -46,4 +46,4 @@ After cloning the application as in Step 1, go to the texas_holdem_react dir and
 
 `npm run start`
 
-And then open a browser and go to http://localhost
+And then open a browser and go to http://localhost:8080
